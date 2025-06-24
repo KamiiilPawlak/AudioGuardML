@@ -1,0 +1,6 @@
+# Ignore virtualenv environment
+venv/
+# ignore Pycharm settings
+.idea/
+# Tomporary Files
+*.pyc
